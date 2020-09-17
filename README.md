@@ -10,7 +10,7 @@ The main data source used was [Opportunity Atlas](https://www.opportunityatlas.o
 
 ## Data Answers 
 
-#### Where are on the map are the areas of interest?  
+### Where are on the map are the areas of interest?  
 ![Baltimore, Maryland](https://github.com/EuniceNamkoong/Baltimore-NewportNews-IncarcerationRate-Data/blob/master/Bmore%20Map.png)
 
 Here we can see the outline of Baltimore, Maryland where population data was taken from.  
@@ -19,24 +19,33 @@ Here we can see the outline of Baltimore, Maryland where population data was tak
 
 Here we can see the outline of Newport News, Virginia where population data was taken from.  
 
-#### What is the average incarceration rate in Baltimore vs. Newport News? 
-![Incarceration Rate](https://github.com/EuniceNamkoong/Baltimore-NewportNews-IncarcerationRate-Data/blob/master/Baltimore%20vs.%20Newport%20News%20Race%20Bar%20Chart.png)
+### What is the average incarceration rate in Baltimore vs. Newport News? 
+![Incarceration Rate](https://github.com/EuniceNamkoong/Baltimore-NewportNews-IncarcerationRate-Data/blob/master/Baltimore%20vs.%20Newport%20News%20Incarceration%20Rate.png)
 
+Here we can see that Baltimore has a higher incarceration rate than Newport News by 2.21% 
 
-#### What is the average incarceration rate among Black vs. White population in Baltimore vs. Newport News? 
+### What is the average incarceration rate among Black vs. White population in Baltimore vs. Newport News? 
 
 ![Race Comparison](https://github.com/EuniceNamkoong/Baltimore-NewportNews-IncarcerationRate-Data/blob/master/Baltimore%20vs.%20Newport%20News%20Race%20Bar%20Chart.png)
 
+Building off the previous chart, out of the average incarceration rates of each city, this chart breaks the percentage down into race populations. For both cities, Black populations have higher incarceration rates but Balitmore has a higher magnitude. 
 
-#### What is the incarceration rate among Black vs. White populations in Baltimorean neighborhoods? 
+### What is the incarceration rate among Black vs. White populations in Baltimorean neighborhoods? 
 ![Baltimore](https://github.com/EuniceNamkoong/Baltimore-NewportNews-IncarcerationRate-Data/blob/master/Baltimore%20Neighborhood%20PIVOT.png)
 
-#### What is the incarceration rate among Black vs. White populations in Newport News neighborhoods? 
+We can see that when Black and White popoulations are compared to All, the Black population remains at higher rates than both. 
+
+### What is the incarceration rate among Black vs. White populations in Newport News neighborhoods? 
 
 ![Newport News](https://github.com/EuniceNamkoong/Baltimore-NewportNews-IncarcerationRate-Data/blob/master/Newport%20News%20Neighborhood%20PIVOT.png)
 
+Similarily, this microview of Newport News, shows that the Black population is drastically above the average All and White population. 
+
+## Summary 
 
 
+## Step by Step Descriptions 
+Description for each step can be found here: 
 
 
 
